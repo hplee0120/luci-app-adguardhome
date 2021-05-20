@@ -58,7 +58,7 @@ filters:
   url: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
   name: anti-AD
   id: 1
-- enabled: true
+- enabled: false
   url: https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt
   name: DivineEngine
   id: 2
