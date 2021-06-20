@@ -42,8 +42,8 @@ dns:
   cache_time: 30
   rewrites: []
   upstream_dns:
-  - https://doh.pub/dns-query
-  - https://dns.alidns.com/dns-query
+  - tls://dns.pub
+  - tls://dns.alidns.com
   enabled: false
   server_name: ""
   force_https: false
