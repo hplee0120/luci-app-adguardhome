@@ -40,8 +40,8 @@ dns:
   cache_time: 30
   rewrites: []
   upstream_dns:
-  - tls://dns.pub
-  - tls://dns.alidns.com
+  - https://dns.pub/dns-query
+  - https://dns.alidns.com/dns-query
   enabled: false
   server_name: ""
   force_https: false
